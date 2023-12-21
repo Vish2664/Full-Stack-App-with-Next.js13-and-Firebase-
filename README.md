@@ -17,6 +17,10 @@ In this technical test, the candidate is required to design and develop a Next.j
 
 - API Documentation: https://developers.giphy.com/branch/master/docs/api
 
+# Optional Task: Marking Favorites:
+- Users should have the ability to mark individual GIFs as favorites.
+- A "favorites" section should be implemented on the home page, allowing users to view their selected GIFs.
+
 # TO-DO
 
 - Marking GIFs as favorites
